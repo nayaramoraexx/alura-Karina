@@ -1,2 +1,2 @@
 # alura-Karina
-Aqui vou estar compartilhando tudo que faço no alura. Sou estudante da escola Laurinda de Ibiuna- SP, onde trabalhamos o programa.
+Sou a Nayara, estudante da escola Laurinda-SP onde trabalhamos o Alura em tecnologia e robotica.
